@@ -1,4 +1,4 @@
-package Ciclos;
+package Proyectos;
 
 import java.util.Scanner;
 
